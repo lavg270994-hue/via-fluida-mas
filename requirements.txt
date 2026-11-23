@@ -1,0 +1,5 @@
+# Dependencias principales del notebook Vía Fluida
+# Para mayor reproducibilidad, fijar versiones tras una ejecución validada.
+crewai
+jupyterlab
+ipython

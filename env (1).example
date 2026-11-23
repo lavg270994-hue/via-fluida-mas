@@ -1,0 +1,5 @@
+# Ejemplo de configuración. NO incluir claves reales en GitHub.
+VIAFLUIDA_LLM=simulado
+# VIAFLUIDA_MODEL=
+# OPENAI_API_KEY=
+# GEMINI_API_KEY=
